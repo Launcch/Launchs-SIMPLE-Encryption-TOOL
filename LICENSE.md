@@ -1,4 +1,5 @@
 MIT LICENCE
+
 Launch's Encryption Tool
 
 Copyright (c) 2025
