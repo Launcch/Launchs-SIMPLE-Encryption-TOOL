@@ -1,3 +1,4 @@
+GO TO RELEASES FOR MOST UPDATED APP
 Simple Text Encrypter/Decrypter
 
 A simple and secure desktop app for encrypting and decrypting text using password-based or no-password encryption. Perfect for personal use or sharing encrypted messages securely.
