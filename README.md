@@ -1,10 +1,10 @@
 GO TO RELEASES FOR MOST UPDATED APP
 
-Simple Text Encrypter/Decrypter
+Simple Text/File Encrypter/Decrypter
 
-A simple and secure desktop app for encrypting and decrypting text using password-based or no-password encryption. Perfect for personal use or sharing encrypted messages securely.
+A simple and secure desktop app for encrypting and decrypting text/files using Fernet symmetric encryption with a key derived via PBKDF2HMAC. Perfect for personal use or sharing encrypted messages securely.
 
-- Encrypt and decrypt any text
+- Encrypt and decrypt any text and most files(including videos/photos)
 
 - Optional password protection
 
