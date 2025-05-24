@@ -12,15 +12,15 @@ A simple and secure desktop app for encrypting and decrypting text/files using F
 
 - Built with Python and Tkinter
 
-1. **Input your text** on the left box.
+1. **Input your text** 
 
 2. (Optional) **Check the box** "Encrypted text requires password" if you want to add a password.
 
    - Enter your password in the field that appears.
 
-3. Click **Encrypt** to generate the encrypted version — it will appear on the right.
+3. Click **Encrypt** to generate the encrypted version 
 
-4. Paste any encrypted text into the right box and click **Decrypt** to decode it — it will appear on the left.
+4. Paste any encrypted text into the box and click **Decrypt** to decode it 
 
 5. To decrypt a password-protected message, you **must** re-enter the same password used to encrypt it.
 
